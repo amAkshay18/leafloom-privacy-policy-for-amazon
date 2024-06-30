@@ -4,7 +4,9 @@ Last updated: June 30, 2024
 
 Introduction
 
-Welcome to Leafloom, an e-commerce application developed by [Your Name/Company]. Leafloom is designed to provide a platform for purchasing plants. This Privacy Policy explains how we collect, use, and protect your personal information when you use our app. Your privacy is important to us, and we are committed to ensuring that your information is secure.
+Welcome to Leafloom, an e-commerce application developed by Akshay P. Leafloom is designed to provide a platform for purchasing plants. This Privacy Policy explains how we collect, use, and protect your personal information when you use our app. Your privacy is important to us, and we are committed to ensuring that your information is secure.
+
+App Description: This app is completely for study purpose. The features like wishlist, cart, check out are working.
 
 Information We Collect
 
@@ -34,7 +36,6 @@ Leafloom uses third-party services such as Razorpay for payment processing and F
 
 Children’s Privacy
 
-Leafloom is not intended for use by individuals under the age of 13. We do not knowingly collect personal information from children under 13. If we become aware that we have inadvertently collected such information, we will take steps to delete it as soon as possible.
 
 Changes to This Privacy Policy
 
